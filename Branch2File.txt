@@ -1,4 +1,4 @@
 init
 
 Value:=4;
-ABC
+ABCDEF
