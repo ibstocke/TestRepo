@@ -3,3 +3,4 @@ init
 Value:=4;
 ABCDEF
 GHIJKL
+MNO
